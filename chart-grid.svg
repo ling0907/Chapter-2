@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <pattern id="chartGrid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0L0 0 0 20" fill="none" stroke="#e8e8e8" stroke-width="0.5"/>
+  </pattern>
+</defs>
+<rect width="200" height="200" fill="url(#chartGrid)"/>
+</svg>
